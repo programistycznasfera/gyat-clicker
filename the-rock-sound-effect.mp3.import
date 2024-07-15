@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/the-rock-sound-effect.mp3-20910367b329d833cc06e84c481102ae.mp3str"
+
+[deps]
+
+source_file="res://the-rock-sound-effect.mp3"
+dest_files=[ "res://.import/the-rock-sound-effect.mp3-20910367b329d833cc06e84c481102ae.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
